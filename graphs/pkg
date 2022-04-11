@@ -1,0 +1,9 @@
+// Personal Knowledge Graph
+digraph pkg {
+	node [shape=plaintext]
+	A [label="Source of Knowledge (article, book, video etc)"]
+	B [label="Processing (i.e., read and take notes)"]
+	C [label="Understanding (write down original thoughts from notes)"]
+	A -> B
+	B -> C
+}
