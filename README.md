@@ -3,7 +3,7 @@
 This repo is my attempt to create a good knowledge acquisition workflow. With it I can centralize my efforts in designing knowledge pipelines. For example, what are the best steps to take from raw knowledge source, to notes, and to new knowledge? In reading a book, what thinking/writing structure should I use to better internalize its ideas into who I am? Things like that.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/vitalwarley/pkg/blob/main/graphs/pkg.png">
+  <img src="https://github.com/vitalwarley/pkg/blob/main/graphs/pkg.png">
 </p>
 
 I expect to have graphs for each workflow I did sometime in the past, I already do, or I think will do soon: 
