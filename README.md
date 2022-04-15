@@ -11,6 +11,15 @@ I expect to have graphs for each workflow I did sometime in the past, I already 
  - _For articles, my note-taking system consists in doing this and that, where the generated data goes to this tool for later analysis._
  - _I managed to be X% more productive this week because I notice that my programming workflow was limited by this thing, which I resolved with this tool._
 
+## Roam Research
+
+WIP.
+
+Actual workflow as of today -- 15/04/22
+
+<p align="center">
+  <img src="https://github.com/vitalwarley/pkg/blob/main/graphs/roam.png">
+</p>
 
 ## TODO
 

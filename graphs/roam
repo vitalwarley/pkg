@@ -1,0 +1,11 @@
+// Roam Protocol
+digraph roam {
+	node [shape=plaintext]
+	0 [label="Daily notes"]
+	A [label="Daily learning"]
+	B [label="Daily routine"]
+	C [label="Daily writing"]
+	0 -> A
+	0 -> B
+	0 -> C
+}
